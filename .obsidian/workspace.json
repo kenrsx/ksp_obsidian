@@ -1,0 +1,504 @@
+{
+  "main": {
+    "id": "fa232d566f19d263",
+    "type": "split",
+    "children": [
+      {
+        "id": "e53ec4491487302c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b18ec4fd816dc3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 UI UX/_2 UI UX.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_2 UI UX"
+            }
+          },
+          {
+            "id": "1afd9037c092fda8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 UI UX/Login Page.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Login Page"
+            }
+          },
+          {
+            "id": "30f408bfb3f032d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 UI UX/Forget Password.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Forget Password"
+            }
+          },
+          {
+            "id": "8b5364e884c9ebdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 UI UX/OTP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OTP"
+            }
+          },
+          {
+            "id": "ff68510b20f45cdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 UI UX/Dashboard.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dashboard"
+            }
+          },
+          {
+            "id": "22428d91b6d686cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 UI UX/Kamar.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kamar"
+            }
+          },
+          {
+            "id": "17fb6287d9f5dd7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 UI UX/Keluhan.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Keluhan"
+            }
+          },
+          {
+            "id": "d1bb1fa9a7fa3fd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 UI UX/Keuangan.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Keuangan"
+            }
+          },
+          {
+            "id": "aa84e06e1ecac353",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 UI UX/Akun.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Akun"
+            }
+          },
+          {
+            "id": "e6bc6d221a2d5a6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 UI UX/Pembayaran.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pembayaran"
+            }
+          },
+          {
+            "id": "aedc46f0c1543d40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 UI UX/Pengaturan.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pengaturan"
+            }
+          },
+          {
+            "id": "13481ed83155755a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 UI UX/_2 UI UX.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_2 UI UX"
+            }
+          },
+          {
+            "id": "961234861b63a6f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 UI UX/Header.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Header"
+            }
+          },
+          {
+            "id": "da063a6bb52d6507",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 UI UX/Footer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Footer"
+            }
+          },
+          {
+            "id": "9a9cb082cf29f3b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 UI UX/Tenant/_Tenant.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_Tenant"
+            }
+          },
+          {
+            "id": "16fe05a4fc7dad54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 UI UX/Tenant/Konfirmasi Pembayaran.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Konfirmasi Pembayaran"
+            }
+          },
+          {
+            "id": "126c120cedee5940",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 UI UX/Login Page.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Login Page"
+            }
+          },
+          {
+            "id": "3776e89446aff904",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 UI UX/Kamar.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kamar"
+            }
+          },
+          {
+            "id": "11e66411092d4b5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 Product Development Stack/_1 Product Development Stack.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_1 Product Development Stack"
+            }
+          },
+          {
+            "id": "9329d9cfd478ba46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 Product Development Stack/General Design.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "General Design"
+            }
+          },
+          {
+            "id": "1dbf640674a42c1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 Product Development Stack/Stack and Desgn Principle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stack and Desgn Principle"
+            }
+          }
+        ],
+        "currentTab": 20
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0d527027bc5061b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "421cbf19187e5a5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf681494befab5f9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "42498d0eaa57b73d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "feb8a9c612a1c9c2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "69de05b9771f6c4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f989b2e3f3a54306",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6986cdb479f76079",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "dcf9ada2531aeb9b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "1fa0d399c0ec777c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8906a8d1978592be",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "60721961cb08a25a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "mermaid-flow:Mermaid Flow Editor": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "github-sync:Sync with Remote": false
+    }
+  },
+  "active": "1dbf640674a42c1e",
+  "lastOpenFiles": [
+    "1 Product Development Stack/General Design.md",
+    "1 Product Development Stack/Stack and Desgn Principle.md",
+    "1 Product Development Stack/_1 Product Development Stack.md",
+    "2 UI UX/! Stack and Design Principle.md",
+    "2 UI UX/Kamar.md",
+    "2 UI UX/Keuangan.md",
+    "2 UI UX/Keluhan.md",
+    "2 UI UX/ListKamar.md",
+    "2 UI UX/Footer.md",
+    "2 UI UX/Forget Password.md",
+    "2 UI UX/Header.md",
+    "2 UI UX/Dashboard.md",
+    "2 UI UX/Akun.md",
+    "2 UI UX/Daftar.md",
+    "2 UI UX/Login Page.md",
+    "2 UI UX/Properti.md",
+    "2 UI UX/OTP.md",
+    "2 UI UX/Notifikasi.md",
+    "2 UI UX/Pembayaran.md",
+    "2 UI UX/_2 UI UX.md",
+    "2 UI UX/Tenant/_Tenant.md",
+    "2 UI UX/Tenant/Ajukan Pindah Kamar.md",
+    "2 UI UX/Tenant/Lihat dan Ajukan Keluhan.md",
+    "2 UI UX/Tenant/Konfirmasi Pembayaran.md",
+    "2 UI UX/Tenant/Dashboard.md",
+    "2 UI UX/Tenant/Login Page.md",
+    "2 UI UX/Tenant",
+    "1 Product Development Stack",
+    "2 UI UX",
+    "Untitled.base"
+  ]
+}

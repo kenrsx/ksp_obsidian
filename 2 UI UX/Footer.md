@@ -1,0 +1,2 @@
+Consists of link to [[2 UI UX/Dashboard]], [[Kamar]], [[Keluhan]], dan [[Keuangan]] in symbols, and highlighting the symbol or section it's currently visited on.
+Exist in any page, except [[Pembayaran]], [[2 UI UX/Login Page]], [[Forget Password]], and [[OTP]]
